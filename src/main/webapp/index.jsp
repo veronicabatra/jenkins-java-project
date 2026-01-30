@@ -21,7 +21,7 @@
         </div>
         <div class="form-control">
           <input type="password" required />
-          <label>Password</label>
+          <label>Enter password</label>
         </div>
         <button type="submit"> BYE  </button>
         <div class="form-help">
@@ -32,7 +32,7 @@
           <a href="#">Need help?</a>
         </div>
       </form>
-      <p>New to NNNNNNNNNNNetflix? <a href="#">Lets join uxxp now</a></p>
+      <p>New to Netflix? <a href="#">Lets join uxxp now</a></p>
       <small>
         This page is protected by Google reCAPTCHA to ensure you're not a bot.
         <a href="#">Learn more.</a>
